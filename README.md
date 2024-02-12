@@ -23,4 +23,4 @@ Usando o Postman escrevendo as solicitações pelo JSON.
 
 ## 🎁 Expressões de gratidão
 
-* Este projeto foi feito referente a um evento que a RrocketSeat fez, que foi onde aprendi bastante e adquiri novos conhecimentos.
+* Este projeto foi feito referente a um evento que a RocketSeat fez, que foi onde aprendi bastante e adquiri novos conhecimentos.
